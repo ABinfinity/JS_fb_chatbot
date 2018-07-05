@@ -20,7 +20,7 @@ app.get('/',function(req, res)
 })
 
 
-const token = "EAADZC141sLwABAKLgAf8PmVYqxxCyI51I21JmvicONO9iesf6FirVZCvacBrySPJBIeg87QHXkZBaeKedVWeUBvVBrVvcrL22wCZAKLNwx2moy3Wz8QR9K1tsD0XCnjKzvyGnM86FcodQzGqwd2kyPLPYucQerBCYrJSZChrURQZDZD"
+const token = "ACCESS TOKEN"
 //Facebook
 
 app.get('/webhook/',function(req, res)
